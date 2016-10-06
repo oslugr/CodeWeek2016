@@ -5,7 +5,8 @@
 * 1 Entramos en la pagina de appinventor.
 * 2 Una vez validamos con nuestra cuenta en gmail, entramos en el programa
 * 3 Pulsamos sobre "Projects" y creamos un nuevo proyecto "Mi primera Apk"
-!(/img/appinventor.jpg)[]
+
+![](https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor.png)
 
 * 4 Explicación de la interfaz del programa y de los principales botones
 
