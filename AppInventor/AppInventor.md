@@ -10,5 +10,10 @@ Con Google App Inventor, se espera un incremento importante en el número de apl
 https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor
 
 
-<video src="https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor
-" width="300" height="208" preload="none" controls></video> 
+ <video src="https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor
+   " width="300" height="208" preload="none" controls></video> 
+
+    
+    <video src="https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-appinventor">      
+    </video>
+    
