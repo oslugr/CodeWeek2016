@@ -9,4 +9,4 @@ Con Google App Inventor, se espera un incremento importante en el número de apl
 
 ### Primeros pasos con App Inventor
 
- ![](https://www.youtube.com/embed/yVV564-SHGc)
+    [](https://www.youtube.com/embed/yVV564-SHGc)
