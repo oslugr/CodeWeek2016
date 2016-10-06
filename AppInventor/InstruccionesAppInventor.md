@@ -22,12 +22,14 @@
 	nuestro emulador de pantalla móvil, debajo del titulo que hemos puesto en el paso anterior.
 	
 ![](https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor2.png)
+
+![](https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor3.png)
 	
 * 8 En nuestro botón vamos a agregar nuestra imagen del gato, para lo que necesitamos previamente 
     una imagen de un gato y el sonido del gato. Pulsamos sobre el menú componentes de la derecha y seleccionamos
     el botón. Pasamos a editar sus propiedades y en ellas seleccionamos que la imagen es la de nuestro gato.
     El alto es por defecto y el ancho seleccionamos que se ajuste al contenedor.
-* 9 Ahora vamos a colocar un mensaje que nos diga lo que debemos hacer. Para ello, del menú de la izquier 
+* 9 Ahora vamos a colocar un mensaje que nos diga lo que debemos hacer. Para ello, del menú de la izquierda 
     (Interfaz de usuario), 
     seleccionamos etiqueta y la colocamos debajo de la imagen del gato.
     Editamos sus propiedades (menú derecha) y cambiamos su color de fondo, tipo y tamaño de letra y 
