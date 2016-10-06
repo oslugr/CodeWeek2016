@@ -9,4 +9,4 @@ Con Google App Inventor, se espera un incremento importante en el número de apl
 
 ![https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor2.png](https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor)
 
-[![Emulador](https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor2.png)](https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor "Emulador - Click to Watch!")
+[![Emulador](https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor2.png)](https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor)
