@@ -20,6 +20,9 @@
 * 7 Procedemos a crear un botón: 
 	* Menú izquierda, seleccionamos botón y arrastramos y soltamos sobre la pantalla 
 	nuestro emulador de pantalla móvil, debajo del titulo que hemos puesto en el paso anterior.
+	
+![](https://github.com/Makova/CodeWeek2016/blob/master/img/appinventor2.png)
+	
 * 8 En nuestro botón vamos a agregar nuestra imagen del gato, para lo que necesitamos previamente 
     una imagen de un gato y el sonido del gato. Pulsamos sobre el menú componentes de la derecha y seleccionamos
     el botón. Pasamos a editar sus propiedades y en ellas seleccionamos que la imagen es la de nuestro gato.
