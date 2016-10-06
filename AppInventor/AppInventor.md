@@ -8,3 +8,7 @@ Para desarrollar aplicaciones con App Inventor sólo necesitas un navegador web 
 Con Google App Inventor, se espera un incremento importante en el número de aplicaciones para Android debido a dos grandes factores: la simplicidad de uso, que facilitará la aparición de un gran número de nuevas aplicaciones; y [Google Play](https://play.google.com/store?hl=es), el centro de distribución de aplicaciones para Android donde cualquier usuario puede distribuir sus creaciones libremente.
 
 https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor
+
+
+<video src="https://sites.google.com/site/appinventormegusta/presentaciones-google-docs/primeros-pasos-con-app-inventor
+" width="300" height="208" preload="none" controls></video> 
